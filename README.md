@@ -1,2 +1,3 @@
-# Path-of-Mice
-A web-based interactive fiction game. 
+# Path of Mice
+An interactive fiction game
+by Daryl Gray
