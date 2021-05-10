@@ -1,3 +1,3 @@
 # Path of Mice
-An interactive fiction game
+A Text-Based adventure </br>
 by Daryl Gray
